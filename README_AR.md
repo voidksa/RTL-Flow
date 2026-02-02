@@ -36,8 +36,11 @@
 - الإنجليزية (للواجهة فقط)
 
 ## 📥 التثبيت
-1. **كروم / إيدج / بريف:** [التحميل من سوق Chrome الإلكتروني](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
-2. **فايرفوكس:** [التحميل من إضافات Firefox](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+</div>
 
 ## ⚖️ الترخيص
 حقوق النشر (c) 2024 RTL Flow. جميع الحقوق محفوظة.

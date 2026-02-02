@@ -36,8 +36,11 @@ RTL Flow מספק גופנים מקומיים ותמיכה בממשק עבור:
 - אנגלית (ממשק בלבד)
 
 ## 📥 התקנה
-1. **Chrome/Edge/Brave:** [הורדה מחנות האינטרנט של Chrome](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
-2. **Firefox:** [הורדה מ-Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+</div>
 
 ## ⚖️ רישיון
 זכויות יוצרים (c) 2024 RTL Flow. כל הזכויות שמורות.

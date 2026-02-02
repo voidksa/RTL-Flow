@@ -2,7 +2,11 @@
 
 # RTL Flow - קלוגער ריכטונג פאַרוואַלטער
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+</div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
@@ -36,8 +40,11 @@ RTL Flow גיט געבוירן פאַנץ און צובינד שטיצן פֿא�
 - ענגליש (צובינד בלויז)
 
 ## 📥 ינסטאַלירונג
-1. **Chrome/Edge/Brave:** [דאַונלאָוד פון קראָום וועב סטאָר](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
-2. **Firefox:** [דאַונלאָוד פון פירעפאָקס לייג-אָנס](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+</div>
 
 ## ⚖️ ליסענס
 קאַפּירייט (c) 2024 RTL Flow. כל הזכויות שמורות.

@@ -7,6 +7,8 @@
 ## 🚀 Overview
 **RTL Flow** is the ultimate browser extension for Right-to-Left (RTL) language users. It forces correct text direction on resistant websites, improves font readability, and fixes mixed-text issues on modern web apps, including AI chatbots and Single Page Applications (SPAs).
 
+*(I honestly don't know why you'd need this in English, but hey, it's here!)*
+
 ## ✨ Key Features
 - **🧠 Smart Mode:** Intelligently detects mixed text (English + RTL) and fixes direction paragraph-by-paragraph without breaking the page layout.
 - **⚡ Universal Support:** Works perfectly on dynamic sites like **ChatGPT, Claude, Perplexity**, and other SPAs that usually resist RTL changes.
@@ -34,8 +36,11 @@ RTL Flow provides native fonts and UI support for:
 - English (UI only)
 
 ## 📥 Installation
-1. **Chrome/Edge/Brave:** [Download from Chrome Web Store](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
-2. **Firefox:** [Download from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+</div>
 
 ## ⚖️ License
 Copyright (c) 2024 RTL Flow. All Rights Reserved.
