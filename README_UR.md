@@ -1,11 +1,10 @@
 <div dir="rtl" align="right">
 
-# RTL Flow - اسمارٹ ڈائریکشن مینیجر
-
 <div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
+  <img src="icons/icon_128x128.png" alt="logo" width="120"/>
+  <h1>RTL Flow - اسمارٹ ڈائریکشن مینیجر</h1>
+  
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 </div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
@@ -38,13 +37,6 @@ RTL Flow ان زبانوں کے لیے مقامی فونٹس اور UI سپور�
 - دیوہی
 - مندائی
 - انگریزی (صرف انٹرفیس)
-
-## 📥 انسٹالیشن
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 ## ⚖️ لائسنس
 کاپی رائٹ (c) 2024 RTL Flow. جملہ حقوق محفوظ ہیں۔

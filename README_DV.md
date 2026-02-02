@@ -1,8 +1,11 @@
 <div dir="rtl" align="right">
 
-# RTL Flow - ސްމާޓް ޑައިރެކްޝަން މެނޭޖަރ
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+<div align="center">
+  <img src="icons/icon_128x128.png" alt="logo" width="120"/>
+  <h1>RTL Flow - ސްމާޓް ޑައިރެކްޝަން މެނޭޖަރ</h1>
+  
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+</div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
@@ -34,13 +37,6 @@ RTL Flow އިން އަންނަނިވި ބަސްތަކަށް ނޭޓިވް ފޮނ�
 - އަރަމައިކް
 - މަންޑައިކް
 - އިނގިރޭސި (ހަމައެކަނި އިންޓަފޭސް)
-
-## 📥 އިންސްޓޯލްކުރުން
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 ## ⚖️ ލައިސަންސް
 ކޮޕީރައިޓް (c) 2024 RTL Flow. ހުރިހާ ޙައްޤެއް ވަނީ ރައްކާތެރިކުރެވިފައެވެ.

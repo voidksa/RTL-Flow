@@ -1,11 +1,10 @@
 <div dir="rtl" align="right">
 
-# RTL Flow - د لارښوونې هوښیار مدیر
-
 <div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
+  <img src="icons/icon_128x128.png" alt="logo" width="120"/>
+  <h1>RTL Flow - د لارښوونې هوښیار مدیر</h1>
+  
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 </div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
@@ -22,7 +21,7 @@
 - **🌍 څو ژبنی انٹرفیس:** د توسیع انٹرفیس په بشپړ ډول په 11 ژبو ژباړل شوی، پشمول پښتو، عربي، فارسي، اردو، عبراني او نور.
 - **💾 اتومات خوندي کول:** ستاسو غوره توبونه (فعال / غیر فعال) د هرې ځانګړې ویب پاڼې لپاره په اوتومات ډول یاد ساتي.
 - **⌨️ د کیبورډ شارټ کټونه:** 
-  - د **`Alt + Shift + E`** (ډیفالټ) شارټ کټ سره سمدلاسه سمت بدل کړئ.
+  - د **`Alt + Shift + E`** (ډیفالٹ) شارټ کټ سره سمدلاسه سمت بدل کړئ.
   - د براوزر ترتیباتو له لارې د تنظیم وړ.
 
 ## 🌍 ملاتړ شوې ژبې
@@ -38,13 +37,6 @@ RTL Flow د دې لپاره اصلي فونټونه او د UI ملاتړ چمت
 - دیوهي
 - مندایي
 - انګلیسي (یوازې انٹرفیس)
-
-## 📥 نصب کول
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 ## ⚖️ جواز
 د چاپ حق (c) 2024 RTL Flow. ټول حقونه خوندي دي.
