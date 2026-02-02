@@ -2,11 +2,7 @@
 
 # RTL Flow - مدير الاتجاه الذكي
 
-<div align="center">
-
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 [English](README.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
@@ -40,12 +36,8 @@
 - الإنجليزية (للواجهة فقط)
 
 ## 📥 التثبيت
-
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
+1. **كروم / إيدج / بريف:** [التحميل من سوق Chrome الإلكتروني](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **فايرفوكس:** [التحميل من إضافات Firefox](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
 ## ⚖️ الترخيص
 حقوق النشر (c) 2024 RTL Flow. جميع الحقوق محفوظة.

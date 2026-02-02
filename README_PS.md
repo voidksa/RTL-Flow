@@ -2,11 +2,7 @@
 
 # RTL Flow - د لارښوونې هوښیار مدیر
 
-<div align="center">
-
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
@@ -40,12 +36,8 @@ RTL Flow د دې لپاره اصلي فونټونه او د UI ملاتړ چمت
 - انګلیسي (یوازې انٹرفیس)
 
 ## 📥 نصب کول
-
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
+1. **کروم / ایج / بریو:** [د کروم ویب پلورنځي څخه ډاونلوډ کړئ](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **فایرفوکس:** [د فایرفوکس اضافو څخه ډاونلوډ کړئ](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
 ## ⚖️ جواز
 د چاپ حق (c) 2024 RTL Flow. ټول حقونه خوندي دي.

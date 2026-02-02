@@ -2,11 +2,7 @@
 
 # RTL Flow - ސްމާޓް ޑައިރެކްޝަން މެނޭޖަރ
 
-<div align="center">
-
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
 
 [English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
@@ -40,12 +36,8 @@ RTL Flow އިން އަންނަނިވި ބަސްތަކަށް ނޭޓިވް ފޮނ�
 - އިނގިރޭސި (ހަމައެކަނި އިންޓަފޭސް)
 
 ## 📥 އިންސްޓޯލްކުރުން
-
-<div align="center">
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
-
-</div>
+1. **ކްރޯމް / އެޖް / ބްރޭވް:** [ކްރޯމް ވެބް ސްޓޯ އިން ޑައުންލޯޑްކުރައްވާ](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **ފަޔަރފޮކްސް:** [ފަޔަރފޮކްސް އެޑް-އޮންސް އިން ޑައުންލޯޑްކުރައްވާ](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
 ## ⚖️ ލައިސަންސް
 ކޮޕީރައިޓް (c) 2024 RTL Flow. ހުރިހާ ޙައްޤެއް ވަނީ ރައްކާތެރިކުރެވިފައެވެ.
