@@ -1,22 +1,45 @@
 <div dir="rtl" align="right">
 
-# RTL Flow - ܡܕܒܪܢܐ ܚܟܝܡܐ
+# RTL Flow - ܡܕܒܪܢܐ ܚܟܝܡܐ (Aramaic)
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
-[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡉࡀ](README_MYZ.md)
+[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
 ## 🚀 Overview
-**RTL Flow** is a powerful browser extension designed to improve the reading experience for Right-to-Left (RTL) language users on the web.
-**ܡܕܒܪܢܐ ܚܟܝܡܐ:** ܐܠܨܝܘܬܐ ܕܨܘܒܐ ܡܢ ܝܡܝܢܐ ܠܣܡܠܐ ܥܠ ܐܝܢܐ ܡܘܩܥܐ.
+**RTL Flow** is the ultimate browser extension for Right-to-Left (RTL) language users, including Aramaic speakers. It forces correct text direction on resistant websites, improves font readability, and fixes mixed-text issues on modern web apps, including AI chatbots and Single Page Applications (SPAs).
 
-## ✨ Features (ܕܝܠܝ̈ܬܐ)
-- **ܛܘܝܒ̈ܐ ܕܐܬܪܐ:** ܢܛܪ ܓܒܝܬ̈ܐ ܕܝܠܟ ܠܟܠ ܫܘܦܐ ܝܘܠܦܢܝܐ.
-- **ܦܣܩܐ ܕܠܘܚ ܩܠܝܕ̈ܐ:** ܫܚܠܦ RTL ܒܩܠܘܠܘܬܐ:
-  - **Windows/Linux:** `Alt+Shift+R`
-  - **Mac:** `Option+Shift+R`
+## ✨ Key Features
+- **🧠 Smart Mode:** Intelligently detects mixed text (English + RTL) and fixes direction paragraph-by-paragraph without breaking the page layout.
+- **⚡ Universal Support:** Works perfectly on dynamic sites like **ChatGPT, Claude, Perplexity**, and other SPAs that usually resist RTL changes.
+- **🎨 Advanced Font Control:** 
+  - High-quality built-in fonts for Aramaic, Syriac, Arabic, and more.
+  - **Upload Custom Fonts:** Use your own local `.ttf` or `.woff` files for a personalized reading experience.
+- **🌍 Multilingual Interface:** The extension UI is fully localized into 11 languages, including Aramaic, Syriac, Arabic, Hebrew, and more.
+- **💾 Auto-Save:** Remembers your settings (enabled/disabled) for each specific website automatically.
+- **⌨️ Keyboard Shortcuts:** 
+  - Toggle RTL instantly with **`Alt + Shift + E`** (Default).
+  - Customizable via browser settings.
 
-## ⚖️ License (ܙܕܩܐ)
+## 🌍 Supported Languages
+RTL Flow provides native fonts and UI support for:
+- Aramaic (ܐܪܡܝܐ)
+- Syriac (ܣܘܪܝܝܐ)
+- Arabic (العربية)
+- Persian (فارسی)
+- Hebrew (עברית)
+- Urdu (اردو)
+- Pashto (پښتو)
+- Yiddish (ייִديش)
+- Dhivehi (ދިވެހި)
+- Mandaic (ࡌࡍࡃࡀࡉࡀ)
+- English (UI only)
+
+## 📥 Installation
+1. **Chrome/Edge/Brave:** [Download from Chrome Web Store](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **Firefox:** [Download from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
+
+## ⚖️ License
 Copyright (c) 2024 RTL Flow. All Rights Reserved.
 Unauthorized copying, modification, or distribution of this extension is strictly prohibited.
 

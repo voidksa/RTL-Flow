@@ -2,38 +2,47 @@
 
 # RTL Flow - מנהל כיוון חכם
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
-[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡉࡀ](README_MYZ.md)
+[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
 ## 🚀 סקירה כללית
-**RTL Flow** הוא תוסף דפדפן עוצמתי שנועד לשפר את חווית הקריאה למשתמשי שפות מימין לשמאל (RTL) ברשת. הוא כופה כיוון RTL נכון באתרים עקשניים ומספק עיצוב חכם לטקסט מעורב (אנגלית + עברית) מבלי לשבור את פריסת העמוד.
+**RTL Flow** הוא תוסף הדפדפן האולטימטיבי למשתמשי שפות מימין-לשמאל (RTL). התוסף כופה כיוון טקסט נכון באתרים עקשניים, משפר את קריאות הגופנים, ופותר בעיות של טקסט מעורב באפליקציות ווב מודרניות, כולל צ'אטבוטים של AI ויישומי עמוד יחיד (SPAs).
 
 ## ✨ תכונות עיקריות
-- **מצב חכם (Smart Mode):** מזהה אוטומטית פסקאות טקסט מעורב ומחיל כיוון RTL רק היכן שצריך, תוך שמירה על פריסת האתר המקורית.
-- **כפיית RTL:** החל כיוון RTL על כל אתר, גם כאלה שכופים LTR באופן מפורש.
-- **שיפור גופנים:** שיפור הקריאות עם גופנים מודרניים המותאמים לקריאה ממושכת.
-- **הגדרות לכל אתר:** זוכר את ההעדפות שלך לכל דומיין באופן אוטומטי.
-- **קיצור מקלדת:** הפעלה/כיבוי מהיר עם:
-  - **Windows/Linux:** `Alt+Shift+R`
-  - **Mac:** `Option+Shift+R`
+- **🧠 מצב חכם (Smart Mode):** מזהה באופן חכם טקסט מעורב (אנגלית + RTL) ומתקן את הכיוון פסקה אחר פסקה מבלי לשבור את פריסת העמוד.
+- **⚡ תמיכה אוניברסלית:** עובד בצורה מושלמת באתרים דינמיים כמו **ChatGPT, Claude, Perplexity** ו-SPAs אחרים שלרוב מתנגדים לשינויי כיוון.
+- **🎨 שליטה מתקדמת בגופנים:** 
+  - גופנים מובנים באיכות גבוהה: **Rubik** לעברית, **Tajawal** לערבית, **Vazirmatn** לפרסית, ועוד.
+  - **העלאת גופנים מותאמים אישית:** השתמשו בקבצי `.ttf` או `.woff` מקומיים משלכם לחוויית קריאה מותאמת אישית לחלוטין.
+- **🌍 ממשק רב-לשוני:** ממשק התוסף מתורגם במלואו ל-11 שפות, כולל עברית, ערבית, פרסית, אורדו, יידיש, ועוד.
+- **💾 שמירה אוטומטית:** זוכר את ההעדפות שלך (מופעל/כבוי) לכל אתר ספציפי באופן אוטומטי.
+- **⌨️ קיצורי מקלדת:** 
+  - החלף כיוון מיידית עם הקיצור **`Alt + Shift + E`** (ברירת מחדל).
+  - ניתן להתאמה אישית דרך הגדרות הדפדפן.
 
 ## 🌍 שפות נתמכות
-RTL Flow מותאם עבור:
+RTL Flow מספק גופנים מקומיים ותמיכה בממשק עבור:
 - עברית
 - ערבית
 - פרסית
 - אורדו
-- ושפות RTL נוספות.
+- פשטו
+- יידיש
+- סורית
+- ארמית
+- דיבהי
+- מנדעית
+- אנגלית (ממשק בלבד)
 
 ## 📥 התקנה
-1. **כרום / אדג' / ברייב:** [הורדה מ-Chrome Web Store](https://chrome.google.com/webstore)
-2. **פיירפוקס:** [הורדה מ-Firefox Add-ons](https://addons.mozilla.org)
+1. **Chrome/Edge/Brave:** [הורדה מחנות האינטרנט של Chrome](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **Firefox:** [הורדה מ-Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
 ## ⚖️ רישיון
 זכויות יוצרים (c) 2024 RTL Flow. כל הזכויות שמורות.
 העתקה, שינוי או הפצה בלתי מורשית של תוסף זה אסורה בהחלט.
 
-*נבנה עם ❤️ לקהילת ה-RTL.*
+*נוצר עם ❤️ לקהילת ה-RTL.*
 
 </div>

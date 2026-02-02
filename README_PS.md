@@ -1,39 +1,48 @@
 <div dir="rtl" align="right">
 
-# RTL Flow - د سمارټ سمت مدیر
+# RTL Flow - د لارښوونې هوښیار مدیر
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg) [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
-[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡉࡀ](README_MYZ.md)
+[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
 
-## 🚀 پیژندنه
-**RTL Flow** یو پیاوړی براوزر توسیع دی چې په ویب کې د ښي څخه کیڼ (RTL) ژبې کاروونکو لپاره د لوستلو تجربه ښه کولو لپاره ډیزاین شوی. دا په ویب پاڼو کې سم RTL سمت پلي کوي او د پاڼې ترتیب خرابولو پرته د ګډ متن (انګلیسي + پښتو) لپاره سمارټ فارمیټینګ چمتو کوي.
+## 🚀 عمومي کتنه
+**RTL Flow** د ښیې څخه کیڼ (RTL) ژبې کاروونکو لپاره حتمي براوزر توسیع دی. دا په ضد ویب پاڼو کې د متن سمه لارښوونه پلي کوي، د فونټ لوستلو وړتیا لوړوي، او په عصري ویب ایپسونو کې د مخلوط متن ستونزې حل کوي، پشمول د AI چیټ بوټس او واحد پاڼې غوښتنلیکونه (SPAs).
 
 ## ✨ کلیدي ځانګړتیاوې
-- **سمارټ حالت (Smart Mode):** په اوتومات ډول د ګډ متن پاراګرافونه کشف کوي او یوازې هغه ځای کې RTL سمت پلي کوي چیرې چې اړتیا وي.
-- **Force RTL:** په هر ویب پاڼه کې د RTL سمت پلي کړئ.
-- **د فونټ ښه والی:** د لوستلو وړتیا ښه کولو لپاره د عصري فونټونو کارول.
-- **د سایټ تنظیمات:** ستاسو غوره توبونه په اوتومات ډول خوندي کوي.
-- **شارټ کټ:** ګړندي فعال/غیر فعال کړئ:
-  - **وینډوز/لینکس:** `Alt+Shift+R`
-  - **ماک:** `Option+Shift+R`
+- **🧠 هوښیار حالت (Smart Mode):** په هوښیارۍ سره مخلوط متن (انګلیسي + RTL) کشف کوي او د پاڼې ترتیب ماتولو پرته پراګراف په پراګراف لارښود سموي.
+- **⚡ نړیوال ملاتړ:** په متحرک سایټونو لکه **ChatGPT, Claude, Perplexity** او نورو SPAs کې په بشپړ ډول کار کوي چې معمولا د سمت بدلونونو سره مقاومت کوي.
+- **🎨 د فونټ پرمختللی کنټرول:** 
+  - د لوړ کیفیت جوړ شوي فونټونه: د پښتو لپاره **وزیر متن (Vazirmatn)**، د عربي لپاره **تجوّل (Tajawal)**، د اردو لپاره **نستعلیق**، او نور.
+  - **خپل فونټونه پورته کړئ:** د بشپړ شخصي لوستلو تجربې لپاره خپل محلي `.ttf` یا `.woff` فایلونه وکاروئ.
+- **🌍 څو ژبنی انٹرفیس:** د توسیع انٹرفیس په بشپړ ډول په 11 ژبو ژباړل شوی، پشمول پښتو، عربي، فارسي، اردو، عبراني او نور.
+- **💾 اتومات خوندي کول:** ستاسو غوره توبونه (فعال / غیر فعال) د هرې ځانګړې ویب پاڼې لپاره په اوتومات ډول یاد ساتي.
+- **⌨️ د کیبورډ شارټ کټونه:** 
+  - د **`Alt + Shift + E`** (ډیفالټ) شارټ کټ سره سمدلاسه سمت بدل کړئ.
+  - د براوزر ترتیباتو له لارې د تنظیم وړ.
 
 ## 🌍 ملاتړ شوې ژبې
-RTL Flow د لاندې ژبو لپاره غوره دی:
+RTL Flow د دې لپاره اصلي فونټونه او د UI ملاتړ چمتو کوي:
 - پښتو
-- فارسي
 - عربي
-- اردو
+- فارسي
 - عبراني
+- اردو
+- یدیش
+- سریاني
+- ارامي
+- دیوهي
+- مندایي
+- انګلیسي (یوازې انٹرفیس)
 
-## 📥 لګول (Installation)
-1. **کروم / ایج:** [د Chrome Web Store څخه ډاونلوډ کړئ](https://chrome.google.com/webstore)
-2. **فایرفوکس:** [د Firefox Add-ons څخه ډاونلوډ کړئ](https://addons.mozilla.org)
+## 📥 نصب کول
+1. **کروم / ایج / بریو:** [د کروم ویب پلورنځي څخه ډاونلوډ کړئ](https://chromewebstore.google.com/detail/enjgmbbhbnbmdbojbebgbennlkgadkkg)
+2. **فایرفوکس:** [د فایرفوکس اضافو څخه ډاونلوډ کړئ](https://addons.mozilla.org/en-US/firefox/addon/stream-freedom/)
 
 ## ⚖️ جواز
-د کاپي حق (c) 2024 RTL Flow. ټول حقونه خوندي دي.
-د دې توسیع غیر مجاز کاپي کول، تعدیل یا توزیع په کلکه منع دی.
+د چاپ حق (c) 2024 RTL Flow. ټول حقونه خوندي دي.
+د دې توسیع غیر مجاز کاپي کول، ترمیم کول، یا توزیع په کلکه منع دي.
 
-*د RTL ټولنې لپاره په ❤️ سره جوړ شوی.*
+*د پښتو او RTL ټولنې لپاره په ❤️ سره جوړ شوی.*
 
 </div>
