@@ -10,6 +10,11 @@
 **RTL Flow** is a powerful browser extension designed to improve the reading experience for Right-to-Left (RTL) language users on the web.
 **ࡌࡃࡀࡁࡓࡍࡀ ࡇࡊࡉࡌࡀ:** ࡀࡋࡑࡉࡅࡕࡀ ࡃࡑࡅࡁࡀ ࡌࡍ ࡉࡌࡉࡍࡀ ࡋࡎࡌࡋࡀ ࡏࡋ ࡀࡉࡍࡀ ࡌࡅࡒࡏࡀ.
 
+- **ࡎࡉࡈࡈࡉࡍࡂࡎ:** ࡌࡄࡊࡀࡆࡉࡕ ࡁࡓࡄࡐࡄࡓࡄࡍࡏࡄࡎ ࡏࡀࡁࡃࡉࡍࡀ.
+- **ࡔࡅࡓࡈࡊࡅࡈ:** ࡕࡅࡂࡂࡉࡋ ࡁࡎࡅࡓࡏࡀ:
+  - **Windows/Linux:** `Alt+Shift+R`
+  - **Mac:** `Option+Shift+R`
+
 ## ⚖️ License
 Copyright (c) 2024 RTL Flow. All Rights Reserved.
 Unauthorized copying, modification, or distribution of this extension is strictly prohibited.

@@ -12,7 +12,9 @@
 - **Force RTL:** Apply RTL direction to any website, even those that explicitly force LTR.
 - **Font Improvement:** Enhancing readability with modern fonts like Tajawal, Vazirmatn, and Rubik.
 - **Per-Site Settings:** Remembers your preferences for each domain automatically.
-- **Keyboard Shortcut:** Quickly toggle RTL on/off with `Alt+Shift+R` (customizable).
+- **Keyboard Shortcut:** Quickly toggle RTL on/off:
+  - **Windows/Linux:** `Alt+Shift+R`
+  - **Mac:** `Option+Shift+R`
 
 ## 🌍 Supported Languages
 RTL Flow is optimized for:
@@ -22,6 +24,7 @@ RTL Flow is optimized for:
 - Urdu (اردو)
 - Pashto (پښتو)
 - Syriac, Aramaic, Dhivehi, Mandaic, Yiddish, and more.
+- **English** (I don't know why you need this, but it works! 🤷‍♂️)
 
 ## 📥 Installation
 1. **Chrome/Edge/Brave:** [Download from Chrome Web Store](https://chrome.google.com/webstore)
