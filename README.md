@@ -34,5 +34,9 @@ RTL Flow is optimized for:
 ## 🔒 Privacy
 RTL Flow runs locally on your browser. No browsing data is collected or sent to any server.
 
+## ⚖️ License
+Copyright (c) 2024 RTL Flow. All Rights Reserved.
+Unauthorized copying, modification, or distribution of this extension is strictly prohibited.
+
 ---
 *Made with ❤️ for the RTL community.*
