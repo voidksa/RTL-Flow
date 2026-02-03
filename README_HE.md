@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="icons/icon_128x128.png" alt="logo" width="120"/>
-  <h1>RTL Flow - מנהל כיוון חכם</h1>
+  <h1>RTL Flow</h1>
   
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
@@ -12,7 +12,6 @@
   <a href="README_AR.md">Arabic</a> | 
   <a href="README_FA.md">Persian</a> | 
   <a href="README_UR.md">Urdu</a> | 
-  <a href="README_PS.md">Pashto</a> | 
   <a href="README_DV.md">Dhivehi</a>
 </div>
 
@@ -25,7 +24,7 @@
 - **🎨 שליטה מתקדמת בגופנים:** 
   - גופנים מובנים באיכות גבוהה: **Rubik** לעברית, **Tajawal** לערבית, **Vazirmatn** לפרסית, ועוד.
   - **העלאת גופנים מותאמים אישית:** השתמשו בקבצי `.ttf` או `.woff` מקומיים משלכם לחוויית קריאה מותאמת אישית לחלוטין.
-- **🌍 ממשק רב-לשוני:** ממשק התוסף מתורגם במלואו ל-11 שפות, כולל עברית, ערבית, פרסית, אורדו, יידיש, ועוד.
+- **🌍 ממשק רב-לשוני:** ממשק התוסף מתורגם במלואו לשפות הנתמכות, כולל עברית, ערבית, פרסית, אורדו ודיבהי.
 - **💾 שמירה אוטומטית:** זוכר את ההעדפות שלך (מופעל/כבוי) לכל אתר ספציפי באופן אוטומטי.
 - **⌨️ קיצורי מקלדת:** 
   - החלף כיוון מיידית עם הקיצור **`Alt + Shift + E`** (ברירת מחדל).
@@ -37,12 +36,7 @@ RTL Flow מספק גופנים מקומיים ותמיכה בממשק עבור:
 - ערבית
 - פרסית
 - אורדו
-- פשטו
-- יידיש
-- סורית
-- ארמית
 - דיבהי
-- מנדעית
 - אנגלית (ממשק בלבד)
 
 ## ⚖️ רישיון

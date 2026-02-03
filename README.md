@@ -10,7 +10,6 @@
   <a href="README_FA.md">Persian</a> | 
   <a href="README_HE.md">Hebrew</a> | 
   <a href="README_UR.md">Urdu</a> | 
-  <a href="README_PS.md">Pashto</a> | 
   <a href="README_DV.md">Dhivehi</a>
 </div>
 
@@ -25,7 +24,7 @@
 - **🎨 Advanced Font Control:** 
   - Built-in high-quality fonts: **Tajawal** (Arabic), **Vazirmatn** (Persian), **Rubik** (Hebrew), **Noto Nastaliq** (Urdu), and more.
   - **Upload Custom Fonts:** Use your own local `.ttf` or `.woff` files for a personalized reading experience.
-- **🌍 Multilingual Interface:** The extension UI is fully localized into Arabic, Persian, Hebrew, Urdu, Pashto, and Dhivehi.
+- **🌍 Multilingual Interface:** The extension UI is fully localized into Arabic, Persian, Hebrew, Urdu, and Dhivehi.
 - **💾 Auto-Save:** Remembers your settings (enabled/disabled) for each specific website automatically.
 - **⌨️ Keyboard Shortcuts:** 
   - Toggle RTL instantly with **`Alt + Shift + E`** (Default).
@@ -37,7 +36,6 @@ RTL Flow provides native fonts and UI support for:
 - Persian (فارسی)
 - Hebrew (עברית)
 - Urdu (اردو)
-- Pashto (پښتو)
 - Dhivehi (ދިވެހި)
 - English (UI only)
 
