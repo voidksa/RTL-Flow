@@ -7,7 +7,7 @@
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
 
-[English](README.md) | [العربية](README_AR.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
+[English](README.md) | [العربية](README_AR.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md)
 
 ## 🚀 درباره افزونه
 **RTL Flow** افزونه نهایی مرورگر برای کاربران زبان‌های راست‌چین (RTL) است. این افزونه جهت متن صحیح را در وب‌سایت‌های مقاوم اعمال می‌کند، خوانایی فونت را بهبود می‌بخشد و مشکلات متن‌های ترکیبی را در برنامه‌های وب مدرن، از جمله چت‌بات‌های هوش مصنوعی و برنامه‌های تک‌صفحه‌ای (SPA) حل می‌کند.

@@ -5,7 +5,7 @@
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
 
-[العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md) | [ࡌࡍࡃࡀࡉࡀ](README_MYZ.md)
+[العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md)
 
 ## 🚀 Overview
 **RTL Flow** is the ultimate browser extension for Right-to-Left (RTL) language users. It forces correct text direction on resistant websites, improves font readability, and fixes mixed-text issues on modern web apps, including AI chatbots and Single Page Applications (SPAs).
