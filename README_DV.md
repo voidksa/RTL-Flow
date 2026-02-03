@@ -8,7 +8,12 @@
 </div>
 
 <div align="center">
-[English](README.md) | [Arabic](README_AR.md) | [Persian](README_FA.md) | [Hebrew](README_HE.md) | [Urdu](README_UR.md) | [Pashto](README_PS.md)
+  <a href="README.md">English</a> | 
+  <a href="README_AR.md">Arabic</a> | 
+  <a href="README_FA.md">Persian</a> | 
+  <a href="README_HE.md">Hebrew</a> | 
+  <a href="README_UR.md">Urdu</a> | 
+  <a href="README_PS.md">Pashto</a>
 </div>
 
 ## 🚀 ތަޢާރަފް
