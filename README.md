@@ -5,7 +5,9 @@
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
 
-[العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md)
+<div align="center">
+[Arabic](README_AR.md) | [Persian](README_FA.md) | [Hebrew](README_HE.md) | [Urdu](README_UR.md) | [Pashto](README_PS.md) | [Dhivehi](README_DV.md)
+</div>
 
 ## 🚀 Overview
 **RTL Flow** is the ultimate browser extension for Right-to-Left (RTL) language users. It forces correct text direction on resistant websites, improves font readability, and fixes mixed-text issues on modern web apps, including AI chatbots and Single Page Applications (SPAs).
@@ -18,7 +20,7 @@
 - **🎨 Advanced Font Control:** 
   - Built-in high-quality fonts: **Tajawal** (Arabic), **Vazirmatn** (Persian), **Rubik** (Hebrew), **Noto Nastaliq** (Urdu), and more.
   - **Upload Custom Fonts:** Use your own local `.ttf` or `.woff` files for a personalized reading experience.
-- **🌍 Multilingual Interface:** The extension UI is fully localized into 11 languages, including Arabic, Persian, Hebrew, Urdu, Pashto, Yiddish, Syriac, and more.
+- **🌍 Multilingual Interface:** The extension UI is fully localized into Arabic, Persian, Hebrew, Urdu, Pashto, and Dhivehi.
 - **💾 Auto-Save:** Remembers your settings (enabled/disabled) for each specific website automatically.
 - **⌨️ Keyboard Shortcuts:** 
   - Toggle RTL instantly with **`Alt + Shift + E`** (Default).
@@ -31,11 +33,7 @@ RTL Flow provides native fonts and UI support for:
 - Hebrew (עברית)
 - Urdu (اردو)
 - Pashto (پښتو)
-- Yiddish (ייִديش)
-- Syriac (ܣܘܪܝܝܐ)
-- Aramaic (ܐܪܡܝܐ)
 - Dhivehi (ދިވެހި)
-- Mandaic (ࡌࡍࡃࡀࡉࡀ)
 - English (UI only)
 
 ## ⚖️ License

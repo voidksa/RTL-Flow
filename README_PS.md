@@ -7,7 +7,9 @@
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
 
-[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [اردو](README_UR.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md)
+<div align="center">
+[English](README.md) | [Arabic](README_AR.md) | [Persian](README_FA.md) | [Hebrew](README_HE.md) | [Urdu](README_UR.md) | [Dhivehi](README_DV.md)
+</div>
 
 ## 🚀 عمومي کتنه
 **RTL Flow** د ښیې څخه کیڼ (RTL) ژبې کاروونکو لپاره حتمي براوزر توسیع دی. دا په ضد ویب پاڼو کې د متن سمه لارښوونه پلي کوي، د فونټ لوستلو وړتیا لوړوي، او په عصري ویب ایپسونو کې د مخلوط متن ستونزې حل کوي، پشمول د AI چیټ بوټس او واحد پاڼې غوښتنلیکونه (SPAs).

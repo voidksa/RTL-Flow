@@ -7,7 +7,9 @@
   [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
 </div>
 
-[English](README.md) | [العربية](README_AR.md) | [فارسی](README_FA.md) | [עברית](README_HE.md) | [پښتو](README_PS.md) | [ייִדיש](README_YI.md) | [ދިވެހި](README_DV.md) | [ܐܪܡܝܐ](README_ARC.md) | [ܣܘܪܝܝܐ](README_SYR.md)
+<div align="center">
+[English](README.md) | [Arabic](README_AR.md) | [Persian](README_FA.md) | [Hebrew](README_HE.md) | [Pashto](README_PS.md) | [Dhivehi](README_DV.md)
+</div>
 
 ## 🚀 جائزہ
 **RTL Flow** دائیں سے بائیں (RTL) زبان کے صارفین کے لیے حتمی براؤزر ایکسٹینشن ہے۔ یہ ضدی ویب سائٹس پر متن کی درست سمت کا اطلاق کرتا ہے، فونٹ کی پڑھنے کی صلاحیت کو بہتر بناتا ہے، اور جدید ویب ایپس پر مخلوط متن کے مسائل کو حل کرتا ہے، بشمول AI چیٹ بوٹس اور سنگل پیج ایپلی کیشنز (SPAs)۔
