@@ -2,7 +2,7 @@
   <img src="icons/icon_128x128.png" alt="logo" width="120"/>
   <h1>RTL Flow - Smart Direction Manager</h1>
   
-  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](#) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](#)
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/rtl-flow/bofmgpojeonlknflappagcmhmppgljhc) &nbsp;&nbsp;&nbsp; [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--ons-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/rtl-flow/)
 </div>
 
 <div align="center">
