@@ -40,7 +40,7 @@ RTL Flow provides native fonts and UI support for:
 - English (UI only)
 
 ## ⚖️ License
-Copyright (c) 2024 RTL Flow. All Rights Reserved.
+Copyright (c) 2026 RTL Flow. All Rights Reserved.
 Unauthorized copying, modification, or distribution of this extension is strictly prohibited.
 
 *Made with ❤️ for the RTL community.*
